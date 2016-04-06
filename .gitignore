@@ -1,0 +1,6 @@
+*/bin/*
+*/obj/*
+packages/*
+!packages/test123.txt
+.vs/*
+*.tmp

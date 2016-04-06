@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><RequestViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Url>http://localhost:62721/api/facts/13</Url><Method>PUT</Method><Headers><string>Accept: application/json</string><string>Content-Type: application/json</string></Headers><Body>{&#xD;
+  "Contents": "Leuk feitje",&#xD;
+  "Source": "https://ducode.org",&#xD;
+  "CategoryId": 2&#xD;
+}</Body></RequestViewModel>
